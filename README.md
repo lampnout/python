@@ -1,3 +1,3 @@
 # python scripts
 
-this folder contains python scripts for educational purpose
+this repository contains python scripts for educational purpose
